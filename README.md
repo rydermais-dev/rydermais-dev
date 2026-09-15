@@ -1,80 +1,81 @@
-<p align="center">
-  <a href="https://rydermais.com/?utm_source=github&utm_medium=profile&utm_campaign=rydermais">
-    <img src="https://raw.githubusercontent.com/rydermais-dev/rydermais-dev/main/banner.png" alt="RyderMais — identidade branca sobre fundo azul com ondas violeta e magenta" width="100%">
-  </a>
-</p>
+<p align="center"><a href="https://rydermais.com/"><img src="https://raw.githubusercontent.com/rydermais-dev/rydermais-dev/main/banner.png" width="100%" alt="RyderMais — ondas magenta e violeta sobre azul profundo"></a></p>
 
-# Tecnologia que conecta. Experiências que ficam.
+<p align="center"><strong>CÓDIGO · CRIATIVIDADE · COMUNIDADE</strong></p>
 
-Somos a **RyderMais**: um ecossistema de SaaS, jogos e experiências web onde código, criatividade e comunidade se encontram.
+# Um ecossistema. Muitas formas de conectar.
 
-Criamos ferramentas para simplificar o cotidiano e universos para explorar juntos — da automação no Discord ao karaokê multiplayer e aos jogos de ritmo.
+Somos a **RyderMais**. Construímos SaaS, jogos e experiências web que aproximam pessoas — na comunidade, na música e no próximo desafio.
 
-**[Explore o ecossistema →](https://rydermais.com/?utm_source=github&utm_medium=profile&utm_campaign=rydermais)** · [Nossos projetos](https://rydermais.com/projetos) · [Código público](https://github.com/orgs/RyderMais/repositories)
+<p align="center"><a href="#automação--ryan"><strong>01 / AUTOMATIZE</strong></a> &nbsp; · &nbsp; <a href="#música--singalong"><strong>02 / CANTE JUNTO</strong></a> &nbsp; · &nbsp; <a href="#jogos--beatup"><strong>03 / ENTRE NO RITMO</strong></a></p>
 
----
+<p align="center"><a href="https://rydermais.com/projetos">Explore o ecossistema →</a> &nbsp; | &nbsp; <a href="https://github.com/orgs/RyderMais/repositories">Explore nosso código →</a></p>
 
-## Escolha seu próximo universo
+<img src="https://raw.githubusercontent.com/rydermais-dev/rydermais-dev/main/divider.svg" width="100%" alt="">
 
-### Automatize sua comunidade · RYAN
+## Automação · RYAN
 
-Um bot para Discord que conecta automação, painel de controle, logs e APIs modulares. Menos tarefas repetitivas. Mais espaço para a comunidade acontecer.
+<a href="https://ryan.rydermais.com/"><img src="https://raw.githubusercontent.com/rydermais-dev/rydermais-dev/main/ryan-card.svg" width="100%" alt="RYAN — automação e comunidade. Mais comunidade, menos tarefas repetitivas."></a>
 
-**[Conheça no site](https://rydermais.com/projetos)** · [Explore o repositório](https://github.com/RyderMais/Ryan)
+Automação para Discord, painel de controle, logs e integrações modulares. Ferramentas para cuidar da operação e abrir espaço para a comunidade acontecer.
 
-### Cante junto · SingAlong!
+**[Conheça o RYAN →](https://ryan.rydermais.com/)** · [Explore a base pública do bot](https://github.com/RyderMais/Ryan)
+
+`JavaScript` `Node.js` `Discord.js` `MongoDB`
+
+## Música · SingAlong!
+
+<a href="https://rydermais.com/projetos"><img src="https://raw.githubusercontent.com/rydermais-dev/rydermais-dev/main/singalong-card.svg" width="100%" alt="SingAlong! — música e encontros. Sua próxima música merece companhia."></a>
 
 Uma plataforma PWA de karaokê multiplayer para cantar com amigos em tempo real. Música como ponto de encontro.
 
-**[Explore nossas experiências](https://rydermais.com/projetos)**
+**[Descubra o SingAlong! no ecossistema →](https://rydermais.com/projetos)**
 
-### Entre no ritmo · BeatUP
+## Jogos · BeatUP
+
+<a href="https://rydermais.com/jogos"><img src="https://raw.githubusercontent.com/rydermais-dev/rydermais-dev/main/beatup-card.svg" width="100%" alt="BeatUP — ritmo e jogos. Sinta a batida, encontre seu desafio."></a>
 
 Um jogo rítmico multiplataforma que transforma música em desafio. Reflexos, imersão e aquela vontade de tentar mais uma vez.
 
-**[Explore nossos jogos](https://rydermais.com/jogos)**
+**[Descubra o BeatUP e nossos jogos →](https://rydermais.com/jogos)**
+
+<img src="https://raw.githubusercontent.com/rydermais-dev/rydermais-dev/main/divider.svg" width="100%" alt="">
+
+## Outros caminhos pelo ecossistema
+
+| Universo | Experiência |
+| :--- | :--- |
+| **Deltaverse** | Minecraft com integração ao Discord. |
+| **Mangut** | Uma vitrine virtual para orgânicos. |
+| **Orkuty** | Nostalgia das redes sociais em uma experiência web. |
+
+[Conheça todos os projetos e suas novidades →](https://rydermais.com/projetos)
+
+## O que nos move
+
+**01 / Pessoas.** Criar ferramentas que ajudam comunidades a acontecer.
+
+**02 / Experiências.** Transformar música, jogos e criatividade em encontros.
+
+**03 / Construção.** Conectar interfaces, automação e tecnologia em produtos com personalidade.
 
 <details>
-<summary><strong>Há mais para descobrir: Deltaverse, Mangut e Orkuty</strong></summary>
+<summary><strong>Conheça as pessoas e o código por trás da marca</strong></summary>
 
-- **Deltaverse:** um servidor Minecraft com integração ao Discord.
-- **Mangut:** uma vitrine virtual para orgânicos.
-- **Orkuty:** uma experiência web que revisita a nostalgia das redes sociais.
+Conheça [Wellington / Bryceed](https://github.com/bryceed), ligado à RyderMais, e seus projetos e experimentos.
 
-Veja o conjunto no [ecossistema RyderMais](https://rydermais.com/projetos). Disponibilidade e novidades devem ser consultadas nas páginas de cada projeto.
+Explore os [repositórios públicos da organização](https://github.com/orgs/RyderMais/repositories). A base pública do RYAN e a versão apresentada no site podem ter diferenças; consulte a documentação de cada projeto.
 
 </details>
 
----
+<img src="https://raw.githubusercontent.com/rydermais-dev/rydermais-dev/main/divider.svg" width="100%" alt="">
 
-## Pessoas, produto e código
+## Seu próximo passo
 
-**Comunidade no centro.** Ferramentas e experiências fazem sentido quando aproximam pessoas.
+| Quero explorar | Quero construir | Quero acompanhar |
+| :--- | :--- | :--- |
+| [Conheça nossos serviços](https://rydermais.com/servicos) | [Explore os repositórios](https://github.com/orgs/RyderMais/repositories) | [Leia as notícias](https://rydermais.com/noticias) |
+| [Descubra nossos jogos](https://rydermais.com/jogos) | [Relate um problema no RYAN](https://github.com/RyderMais/Ryan/issues) | [Visite a RyderMais](https://rydermais.com/) |
 
-**Criatividade na interface.** Música, jogos e nostalgia abrem espaço para experiências com personalidade.
+Contribuições começam com contexto: consulte a documentação e a licença do projeto, descreva sua ideia ou relate o problema com passos para reproduzir.
 
-**Tecnologia conectada.** Web apps, automação e integrações compõem um mesmo ecossistema.
-
-No código público do RYAN, essa base passa por **JavaScript e Node.js**. No site, o projeto também é apresentado com **Discord.js e MongoDB**.
-
-## Construa com a gente
-
-Encontrou um problema ou tem uma ideia? Abra uma issue no repositório correspondente, com contexto, comportamento esperado e passos para reproduzir.
-
-Quer contribuir com código? Consulte o README, a licença e as orientações de contribuição de cada projeto antes de preparar sua proposta.
-
-**[Explore os repositórios →](https://github.com/orgs/RyderMais/repositories)** · [Conheça nossos serviços](https://rydermais.com/servicos)
-
-<details>
-<summary><strong>Nos bastidores</strong></summary>
-
-As pessoas que constroem também fazem parte da história. Conheça [Wellington / Bryceed](https://github.com/bryceed), ligado à RyderMais, e explore os projetos e experimentos do seu perfil.
-
-</details>
-
----
-
-**RyderMais · Inovação em cada pixel.**
-
-[Site](https://rydermais.com/) · [Projetos](https://rydermais.com/projetos) · [Jogos](https://rydermais.com/jogos) · [Notícias](https://rydermais.com/noticias)
-
+<p align="center"><strong>RYDERMAIS</strong><br>Inovação em cada pixel.</p>
