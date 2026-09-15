@@ -6,7 +6,7 @@
 
 Somos a **RyderMais**. Construímos SaaS, jogos e experiências web que aproximam pessoas — na comunidade, na música e no próximo desafio.
 
-<p align="center"><a href="#automação--ryan"><strong>01 / AUTOMATIZE</strong></a> &nbsp; · &nbsp; <a href="#música--singalong"><strong>02 / CANTE JUNTO</strong></a> &nbsp; · &nbsp; <a href="#jogos--beatup"><strong>03 / ENTRE NO RITMO</strong></a></p>
+<p align="center"><a href="#automação--ryan"><strong>AUTOMATIZE</strong></a> &nbsp; · &nbsp; <a href="#música--singalong"><strong>CANTE JUNTO</strong></a> &nbsp; · &nbsp; <a href="#jogos--beatup"><strong>ENTRE NO RITMO</strong></a></p>
 
 <p align="center"><a href="https://rydermais.com/projetos">Explore o ecossistema →</a> &nbsp; | &nbsp; <a href="https://github.com/orgs/RyderMais/repositories">Explore nosso código →</a></p>
 
@@ -52,11 +52,11 @@ Um jogo rítmico multiplataforma que transforma música em desafio. Reflexos, im
 
 ## O que nos move
 
-**01 / Pessoas.** Criar ferramentas que ajudam comunidades a acontecer.
+**Pessoas.** Criar ferramentas que ajudam comunidades a acontecer.
 
-**02 / Experiências.** Transformar música, jogos e criatividade em encontros.
+**Experiências.** Transformar música, jogos e criatividade em encontros.
 
-**03 / Construção.** Conectar interfaces, automação e tecnologia em produtos com personalidade.
+**Construção.** Conectar interfaces, automação e tecnologia em produtos com personalidade.
 
 <details>
 <summary><strong>Conheça as pessoas e o código por trás da marca</strong></summary>
@@ -79,3 +79,4 @@ Explore os [repositórios públicos da organização](https://github.com/orgs/Ry
 Contribuições começam com contexto: consulte a documentação e a licença do projeto, descreva sua ideia ou relate o problema com passos para reproduzir.
 
 <p align="center"><strong>RYDERMAIS</strong><br>Inovação em cada pixel.</p>
+
