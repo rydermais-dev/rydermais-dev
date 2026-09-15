@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://rydermais.com/?utm_source=github&utm_medium=profile&utm_campaign=rydermais">
+    <img src="https://raw.githubusercontent.com/rydermais-dev/rydermais-dev/main/banner.png" alt="RyderMais — identidade branca sobre fundo azul com ondas violeta e magenta" width="100%">
+  </a>
+</p>
+
 # Tecnologia que conecta. Experiências que ficam.
 
 Somos a **RyderMais**: um ecossistema de SaaS, jogos e experiências web onde código, criatividade e comunidade se encontram.
@@ -71,3 +77,4 @@ As pessoas que constroem também fazem parte da história. Conheça [Wellington 
 **RyderMais · Inovação em cada pixel.**
 
 [Site](https://rydermais.com/) · [Projetos](https://rydermais.com/projetos) · [Jogos](https://rydermais.com/jogos) · [Notícias](https://rydermais.com/noticias)
+
